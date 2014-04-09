@@ -1,0 +1,7 @@
+{
+	"name": "smi-test-package-2",
+	"version": "0.1.0",
+	"dependencies": {
+		"smi-test-package-1": "0.1.0"
+	}
+}
